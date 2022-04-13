@@ -6,6 +6,10 @@ module.exports = {
     // googleClientSecret:'redacted',
     mongoURI:'mongodb+srv://zoey:123456wy@emaily.kmvey.mongodb.net/emaily?retryWrites=true&w=majority',
     cookieKey:'inkjsihdue',
+    stripePublishableKey:'',
+    stripeSecretKey:'',
 
 };
+
+
 
